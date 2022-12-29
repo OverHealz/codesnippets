@@ -1,0 +1,13 @@
+0xF1300070BB00004A
+
+3rd digit indicates type of unit:
+  3 NPC
+  4 Pet
+  5 Vehicle
+  0 Player
+  
+ 4th -6th - unknown
+ 
+ 7-10 NPC ID
+ 
+ 
